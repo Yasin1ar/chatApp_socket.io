@@ -1,0 +1,11 @@
+node_modules/
+*.js
+.env
+*.db
+*.sqlite
+*.sqlite3
+.vscode/
+.qodo
+# OS files
+.DS_Store
+Thumbs.db
